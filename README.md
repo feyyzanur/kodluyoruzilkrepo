@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://github.com/feyyzanur/kodluyoruzilkrepo/blob/69942f8d08fa058799769fa80b6c65c4af9683cc/LICENSE)
 
-![Görsel](a.png)
+![Görsel](work.png)
